@@ -1,0 +1,54 @@
+/*****到时删除***/
+body{overflow:scroll;}
+/*****y以上到时删除***/
+/*公用部分*/
+
+/*底部公用*/
+.footer{position:fixed;bottom: 0;width:100%;z-index: 999;margin:0 auto;max-width: 690px;}
+.footer ul{width:60%;margin:0 auto;}
+.footer ul li{float:left;width:44%;height:1.8rem;line-height:1.8rem;margin:0 1.5%;text-align: center;border-radius: .3rem;font-size:.8rem !important;}
+.footer ul li:nth-of-type(1){background:#efaf55;}
+.footer ul li:nth-of-type(2){background:#00abf3;}
+
+/*end公用部分*/
+/*个人信息*/
+.user-contain{margin-top:2.2rem;margin-bottom:1.8rem;height: 19000px; }
+.user-contain *{margin:0px;padding:0px;}
+.user-head{height:9rem;width:100%;font-size:.7rem;padding-left:1rem;padding-top:1rem;background:url(../img/b13.jpg) no-repeat;background-size:100%;}
+.user-head dl dt{float:left;width:5rem;height:100%;margin-right:10%;}
+.user-head dl dt img{width:100%;}
+.user-head dl dd{float:left;width:50%;line-height:1.2rem;height:1.2rem;}
+.user-names{margin-bottom:.4rem;}
+.user-address,.user-renzheng{margin-left:.6rem;}
+.user-names span{display: block;float:left;}
+.user-renzheng{width:15px;}
+
+.jiben-title{height:3rem;overflow: hidden;box-sizing: border-box;}
+.user-edit{float:right;font-size:0.6rem !important;}
+.user-edit span{float:;padding:0.6rem;background:#eee;}
+.line1,.user-edit{height:3rem;line-height:3rem;width:8rem;text-align:center;}
+.line1{float:left;}
+.line1 span{background:#eee;width:5rem;padding:0.6rem;  }
+.line2{border-bottom:1px solid #000;margin-top:1.5rem;float:;}
+
+.jiben-xiangxi{padding-left:1.3rem;padding-bottom:;overflow:hidden;}
+.jiben-xiangxi ul{font-size:0.7rem;width:100%;float:left;margin-bottom:0.5rem;}
+.jiben-xiangxi ul li{float:left;text-align: center;}
+.jiben-xiangxi ul li.user-icon{margin-right:1rem;}
+.jiben-xiangxi ul li.jiben-line{width:1px;margin:0 .6rem;}
+
+.user-work2{margin-left:2rem;}
+
+.user-hengxian{width:80%;height:1px;background: radial-gradient(ellipse  at center, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0) 80%);margin:0.8rem auto;clear:both;}
+
+.user-footer{position:fixed;bottom: 0;width:100%;z-index: 999;margin:0 auto;max-width: 690px;}
+.user-footer ul{width:60%;margin:0 auto;}
+.user-footer ul li{float:left;width:44%;height:1.8rem;line-height:1.8rem;margin:0 1.5%;text-align: center;border-radius: .3rem;font-size:.8rem !important;}
+.user-footer ul li:nth-of-type(1){background:#efaf55;}
+.user-footer ul li:nth-of-type(2){background:#00abf3;}
+
+/*end个人信息*/
+
+/*服务介绍*/
+
+/*end服务介绍*/	
