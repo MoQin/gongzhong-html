@@ -4,7 +4,7 @@ body{overflow:scroll;}
 /*公用部分*/
 
 /*底部公用*/
-<<<<<<< HEAD
+
 .footer{position:fixed;bottom: 0;width:100%;z-index: 999;margin:0 auto;max-width: 690px;text-align: center;}
 .footer ul{margin:0 auto;padding:0;text-align: center;}
 .footer ul li{padding:.2rem;margin:0 1.5%;text-align: center;border-radius: .3rem;font-size:.65rem !important;}
