@@ -5,6 +5,7 @@ body{overflow:scroll;}
 
 /*底部公用*/
 
+
 .footer{position:fixed;bottom: 0;width:100%;z-index: 999;margin:0 auto;max-width: 690px;text-align: center;}
 .footer ul{margin:0 auto;padding:0;text-align: center;}
 .footer ul li{padding:.2rem;margin:0 1.5%;text-align: center;border-radius: .3rem;font-size:.65rem !important;}
@@ -13,6 +14,7 @@ body{overflow:scroll;}
 .line-title{float:left;width:7rem;}
 .line-title span{background:#eee;width:5rem;padding:0.6rem;  }
 .center-line{border-bottom:1px solid #000;margin-top:1.5rem !important;float:;} 
+
 
 
 /*end公用部分*/
@@ -48,6 +50,7 @@ body{overflow:scroll;}
 
 /*服务介绍*/
 
+
 .head-img img{width:100%;}
 .service{margin:.8rem 0;}
 .service-contents{width:96%;margin:0 auto;margin-bottom:2rem;}
@@ -60,7 +63,6 @@ body{overflow:scroll;}
 .srevice-table table tr th{background:#ccc;font-size:.8rem;}
 .srevice-table table tr td{border:1px #ccc solid;font-size:.6rem;}
 .service-warn{color:red;width:100%;font-size: .6rem;padding:.3rem;}
-
 
 
 
